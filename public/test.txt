@@ -1,2 +1,2 @@
 Criando Alterações direto no GitHub - Sincronizando as alterações realizadas.
-Teste resolvendo conflitos,
+Teste resolvendo conflitos.
