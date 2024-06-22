@@ -4,7 +4,7 @@
 
 
 
-![Gif](https://github.com/Juliana-Ferreira-Alves/estudandoGit_e_Github/blob/branch/giphy.gif)
+![Gif](https://github.com/Juliana-Ferreira-Alves/estudandoGit_e_Github/blob/branch/GitHub.gif)
 
 
 ### Assistir ao vídeo 
