@@ -13,3 +13,6 @@
 ### Professor José de Assis
 [Personalizando o README](https://www.youtube.com/watch?v=T70t3mDiwvg)
 
+### Tutorial da linguaguem Markdown
+[Markdown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
