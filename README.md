@@ -1,3 +1,7 @@
+![GitHub User's stars](https://img.shields.io/github/stars/Juliana-Ferreira-Alves)
+![GitHub License](https://img.shields.io/github/license/Juliana-Ferreira-Alves/estudandoGit_e_Github)
+
+
 # EstudandoGit_e_Github
 ## Estudando um pouco mais do Git e GitHub
 ### Personalizando o README
