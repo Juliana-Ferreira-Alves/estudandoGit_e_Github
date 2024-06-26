@@ -1,1 +1,3 @@
 Pasta de imagens.
+
+Testando merges.
