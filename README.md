@@ -21,3 +21,7 @@
 [Markdown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ### Curso completo de Git e GitHub [:octocat:](https://www.youtube.com/watch?v=FF1f4bKYhoo&list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj)
+
+### Readme generator [💻](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+
+### Emoji [😄](https://github.com/ikatyang/emoji-cheat-sheet?tab=readme-ov-file#computer)
